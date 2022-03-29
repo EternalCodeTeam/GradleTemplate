@@ -4,7 +4,6 @@
 If you want to get help regarding our products or just want to ask something, join our [discord](https://discord.gg/MUCKhgFUCA).
 
 # License
---------------------------------------------------------------------------------
 #### GradleTemplate is published under the GNU GPLv3 license. In particular, the developer:
 
 - It can modify and improve the application code
